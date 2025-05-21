@@ -49,7 +49,7 @@ Siga estes passos para rodar a aventura no Google Colab:
     * Clique em "**ADICIONAR UM NOVO SECRET**".
     * Adicione o seguinte secret:
         * **Nome:** `NGROK_AUTHTOKEN`
-        * **Valor:** Cole o seu Authtoken do ngrok aqui (ex: `2xL7RWu7GhTHHLoFNYkjTg495KD_5mSLm4oYdNMpLYPWEDB1X`).
+        * **Valor:** Cole o seu Authtoken do ngrok aqui.
         * Marque a caixa de seleção "**Acesso ao notebook**".
     * Salve o secret.
 
