@@ -1,5 +1,7 @@
 # ⚔️ RPG Textual com IA Gemini, Voz e Streamlit 🐉
 
+# TESTE O GAME AQUI: https://9ec6-104-196-171-177.ngrok-free.app/
+
 Bem-vindo ao RPG Textual com IA Gemini! Embarque em jornadas épicas moldadas por suas decisões e pela inteligência artificial avançada do Google Gemini. Este aplicativo web, construído com Streamlit, oferece uma experiência de RPG dinâmica e imersiva, com narração por voz opcional. Ele foi projetado para ser facilmente executado no Google Colab e acessado publicamente através do ngrok.
 
 ## ✨ Funcionalidades
